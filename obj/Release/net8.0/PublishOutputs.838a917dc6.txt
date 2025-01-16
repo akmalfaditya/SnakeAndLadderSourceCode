@@ -1,0 +1,5 @@
+C:\Users\Formulatrix\Documents\testraining\ConsoleApp5\bin\Release\net8.0\publish\ConsoleApp5.exe
+C:\Users\Formulatrix\Documents\testraining\ConsoleApp5\bin\Release\net8.0\publish\ConsoleApp5.dll
+C:\Users\Formulatrix\Documents\testraining\ConsoleApp5\bin\Release\net8.0\publish\ConsoleApp5.deps.json
+C:\Users\Formulatrix\Documents\testraining\ConsoleApp5\bin\Release\net8.0\publish\ConsoleApp5.runtimeconfig.json
+C:\Users\Formulatrix\Documents\testraining\ConsoleApp5\bin\Release\net8.0\publish\ConsoleApp5.pdb
