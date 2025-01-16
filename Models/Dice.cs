@@ -9,10 +9,7 @@ public class Dice : IDice
     {
         _maxDice = maxNumber;
     }
-    public void SetMaxDice(int maxNumber)
-    {
-        _maxDice = maxNumber;
-    }
+   
 
     public int Roll()
     {
