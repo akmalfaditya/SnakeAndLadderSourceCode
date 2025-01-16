@@ -12,3 +12,4 @@ C:\Users\Formulatrix\Documents\testraining\ConsoleApp5\obj\Debug\net8.0\refint\C
 C:\Users\Formulatrix\Documents\testraining\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.pdb
 C:\Users\Formulatrix\Documents\testraining\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.genruntimeconfig.cache
 C:\Users\Formulatrix\Documents\testraining\ConsoleApp5\obj\Debug\net8.0\ref\ConsoleApp5.dll
+C:\Users\Formulatrix\Documents\testraining\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.sourcelink.json

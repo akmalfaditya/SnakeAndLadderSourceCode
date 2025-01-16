@@ -1,11 +1,10 @@
-public class Player
+public class Player : IPlayer
 {
-    private string name {get; set;}
-    
+    public string Name { get; set; }
+
     public Player(string userName)
     {
-        // last = lastName;
-        name = userName;
+        Name = userName;
     }
 
     public override bool Equals(object obj)
@@ -16,16 +15,16 @@ public class Player
         }
 
         Player other = (Player)obj;
-        return name == other.name;
+        return Name == other.Name;
     }
 
     public override int GetHashCode()
     {
-        return name.GetHashCode();
+        return Name.GetHashCode();
     }
 
     public override string ToString()
     {
-        return name;
+        return Name;
     }
 }
