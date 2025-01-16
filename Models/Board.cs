@@ -13,10 +13,7 @@ public class Board : IBoard
 
     public int GetBoardPosition(int index)
     {
-        if (index > 100 || index < 1) 
-        {
-            throw new ArgumentOutOfRangeException(nameof(index), "Index must be between 1 and 100.");
-        }
+        
         return _board[index];
     }
 
@@ -38,10 +35,7 @@ public class Board : IBoard
 
     public int GetSnakeAndLadderPosition(int position)
     {
-        if (position > 100 || position < 1)
-        {
-            throw new ArgumentOutOfRangeException(nameof(position), "Position must be between 1 and 100.");
-        }
+        
         return _snakeAndLadder[position];
     }
 }
